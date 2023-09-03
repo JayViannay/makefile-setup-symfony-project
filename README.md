@@ -1,7 +1,7 @@
 # Welcome to Makefile Setup for Symfony 6 👋
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-yellow.svg)](#)
 
-> Simple Makefile to deloy symfony app in local with mysql-server and phpmyadmin on containers docker
+> Simple Makefile to deloy symfony app in local with mysql-server and phpmyadmin with docker
 
 ### 🏠 [Homepage](http://localhost:8000/)
 
@@ -20,11 +20,9 @@ make run
 
 ## Author
 
-👤 **Jenny Viannay**
+👤 **Jay Viannay**
 
-* Website: [@jenny-viannay.tech](https://jenny-viannay.tech)
-* Github: [@JennyViannay](https://github.com/JennyViannay)
-* LinkedIn: [@Jenny Viannay](https://linkedin.com/in/Jenny Viannay)
+* Github: [@JayViannay](https://github.com/JayViannay)
 
 ## Show your support
 
